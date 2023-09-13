@@ -9,3 +9,4 @@ test test test
 Github blablabla
 Maiken er stygg
 Julie er favoritt søstra mi
+git versjon 2.30.1
