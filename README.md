@@ -1,12 +1,4 @@
 # Oblig03
-Git hub introduction 
-<<<<<<< HEAD
-Windows 2
-Test test
 andreavaagen
-test
-test test test
-Github blablabla
-Maiken er stygg
-Julie er favoritt søstra mi
-git versjon 2.30.1
+git version 2.42.0.windows.2
+
